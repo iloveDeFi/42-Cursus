@@ -1,0 +1,18 @@
+[submodule "00-Libft"]
+	path = 00-Libft
+	url = https://github.com/iloveDeFi/42cursus-00-Libft.git
+[submodule "01-Printf"]
+	path = 01-Printf
+	url = https://github.com/iloveDeFi/42cursus-01-Printf.git
+[submodule "02-GNL"]
+	path = 02-GNL
+	url = https://github.com/iloveDeFi/42cursus-02-Get_Next_Line.git
+[submodule "03-PushSwap"]
+	path = 03-PushSwap
+	url = https://github.com/iloveDeFi/42cursus-03-Push_Swap.git
+[submodule "04-Minitalk"]
+	path = 04-Minitalk
+	url = https://github.com/iloveDeFi/42cursus-04-Minitalk-.git
+[submodule "05-FdF"]
+	path = 05-FdF
+	url = https://github.com/iloveDeFi/42cursus-05-FdF.git
